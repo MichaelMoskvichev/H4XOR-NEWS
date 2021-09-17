@@ -1,6 +1,6 @@
 # H4XOR-NEWS
 Hacker news reader. Using the Hacker News API to get hold of the latest articles that are trending. First app in SwiftUI
-## Instalation
+## Installation
 Use Xcode 12.5, IOS 14.3, macOS 11 to instull.
 ### Screenshots
 ![Screenshot01](https://github.com/MichaelMoskvichev/H4XOR-NEWS/blob/main/H4XOR%20NEWS/Screenshot01.png?raw=true)
